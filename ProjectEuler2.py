@@ -1,3 +1,5 @@
+#!/bin/python3
+
 def g(n, I):
     if n < len(I):
         return(I[n])
